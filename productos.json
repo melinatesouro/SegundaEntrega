@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Silla Wassily",
+    "descripcion": "Una silla de nuestra selección de objetos de la Bauhaus, creada en el año 1925.",
+    "detalles": "Diseñador: Marcel Breuer"
+  },
+  {
+    "titulo": "Lámpara Wagenfeld",
+    "descripcion": "Una lámpara de nuestra selección de objetos de la Bauhaus, creada en el año 1923.",
+    "detalles": "Diseñador: Wilhelm Wagenfeld"
+  },
+  {
+    "titulo": "Tetera Bauhaus",
+    "descripcion": "Una tetera de nuestra selección de objetos de la Bauhaus, creada en el año 1924.",
+    "detalles": "Diseñadora: Marianne Brandt."
+  }
+]
